@@ -6,49 +6,49 @@
       "GroupId": "swift",
       "Name": "Light",
       "Id": "light",
-      "BackgroundColor": "#FFFFFF",
-      "ForegroundColor": "#242424",
-      "PrimaryButtonColor": "#4d4d4d",
-      "SecondaryButtonColor": "#ededed",
+      "BackgroundColor": "#F4F6FA",
+      "ForegroundColor": "#0f1520",
+      "PrimaryButtonColor": "#4146E5",
+      "SecondaryButtonColor": "#dde3ee",
       "CustomColors": []
     },
     {
       "GroupId": "swift",
       "Name": "Light Grey 1",
       "Id": "lightgrey1",
-      "BackgroundColor": "#ededed",
-      "ForegroundColor": "#242424",
-      "PrimaryButtonColor": "#242424",
-      "SecondaryButtonColor": "#6e6e6e",
+      "BackgroundColor": "#eff1f6",
+      "ForegroundColor": "#0f1520",
+      "PrimaryButtonColor": "#0f1520",
+      "SecondaryButtonColor": "#777b83",
       "CustomColors": []
     },
     {
       "GroupId": "swift",
       "Name": "Light Grey 2",
       "Id": "lightgrey2",
-      "BackgroundColor": "#f2f2f2",
+      "BackgroundColor": "#dde3ee",
       "ForegroundColor": "#242424",
-      "PrimaryButtonColor": "#004fff",
-      "SecondaryButtonColor": "#6e6e6e",
+      "PrimaryButtonColor": "#4146E5",
+      "SecondaryButtonColor": "#777b83",
       "CustomColors": []
     },
     {
       "GroupId": "swift",
       "Name": "Dark",
       "Id": "dark",
-      "BackgroundColor": "#242424",
+      "BackgroundColor": "#0f1520",
       "ForegroundColor": "#ffffff",
       "PrimaryButtonColor": "#f5f5f5",
-      "SecondaryButtonColor": "#8c8c8c",
+      "SecondaryButtonColor": "#777b83",
       "CustomColors": []
     },
     {
       "GroupId": "swift",
       "Name": "Dark Subtle",
       "Id": "darksubtle",
-      "BackgroundColor": "#575757",
+      "BackgroundColor": "#777b83",
       "ForegroundColor": "#ffffff",
-      "PrimaryButtonColor": "#242424",
+      "PrimaryButtonColor": "#0f1520",
       "SecondaryButtonColor": "#ededed",
       "CustomColors": []
     },
@@ -56,10 +56,10 @@
       "GroupId": "swift",
       "Name": "Primary",
       "Id": "primary",
-      "BackgroundColor": "#004fff",
+      "BackgroundColor": "#4146E5",
       "ForegroundColor": "#ffffff",
       "PrimaryButtonColor": "#f5f5f5",
-      "SecondaryButtonColor": "#8c8c8c",
+      "SecondaryButtonColor": "#777b83",
       "CustomColors": []
     },
     {
@@ -68,8 +68,8 @@
       "Id": "secondary",
       "BackgroundColor": "#242424",
       "ForegroundColor": "#ffffff",
-      "PrimaryButtonColor": "#f5f5f5",
-      "SecondaryButtonColor": "#8c8c8c",
+      "PrimaryButtonColor": "#eff1f6",
+      "SecondaryButtonColor": "#777b83",
       "CustomColors": []
     }
   ]
