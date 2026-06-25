@@ -1,8 +1,8 @@
 {
   "Id": "buttons",
   "Name": "Buttons",
-  "Shape": 2,
+  "Shape": 1,
   "BorderSize": 1,
-  "PaddingY": 1,
-  "PaddingX": 2.5
+  "PaddingY": 0.9,
+  "PaddingX": 2
 }
