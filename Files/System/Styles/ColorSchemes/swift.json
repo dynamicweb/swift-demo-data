@@ -71,6 +71,16 @@
       "PrimaryButtonColor": "#eff1f6",
       "SecondaryButtonColor": "#777b83",
       "CustomColors": []
+    },
+    {
+      "GroupId": "swift",
+      "Name": "White",
+      "Id": "white",
+      "BackgroundColor": "#FFFFFF",
+      "ForegroundColor": "#0f1520",
+      "PrimaryButtonColor": "#4146E5",
+      "SecondaryButtonColor": "#dde3ee",
+      "CustomColors": []
     }
   ]
 }
