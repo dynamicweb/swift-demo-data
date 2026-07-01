@@ -97,3 +97,17 @@
 --dw-color-button-secondary-rgb: 119, 123, 131;
 --dw-color-button-secondary-contrast: #fff;
 }
+.dw-colorscheme-white, 
+[data-dw-colorscheme="white"] {
+/* White */
+--dw-color-background: #FFFFFF;
+--dw-color-background-rgb: 255, 255, 255;
+--dw-color-foreground: #0f1520;
+--dw-color-foreground-rgb: 15, 21, 32;
+--dw-color-button-primary: #4146E5;
+--dw-color-button-primary-rgb: 65, 70, 229;
+--dw-color-button-primary-contrast: #fff;
+--dw-color-button-secondary: #dde3ee;
+--dw-color-button-secondary-rgb: 221, 227, 238;
+--dw-color-button-secondary-contrast: #000;
+}
